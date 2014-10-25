@@ -1,9 +1,15 @@
 Getdata_Courseproject
 =====================
+# Goal of the project
+
+The goal of the project is to prepare tidy data that can be used for later analysis. 
+
+The end result of the project is a tidy data set, a script for performing the analysis, a codebook.md and a readme.md.
+
+The codebook.md describes the variables, the data, and any transformations or work that is performed to clean up the data. The readme.md explains how the script works 
 
 
-
-#This section describes the working of the script: run_analises.R
+#This Readme.md describes the working of the script: run_analises.R
 
 Descriptions of the working of the differens steps in the script are also found as comments in de script itself.
 
