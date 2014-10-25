@@ -54,33 +54,19 @@ The file Samsungmeandata contains 4 variables:
        Description of measurement (factor with 66 levels of measurements)
        
        timesignalofbodylinearaccelerationmeaninxdirection
-       
        timesignalofbodylinearaccelerationmeaninydirection
-       
        timesignalofbodylinearaccelerationmeaninzdirection
-       
        timesignalofbodylinearaccelerationstandarddeviationinxdirection
-       
        timesignalofbodylinearaccelerationstandarddeviationinydirection
-       
        timesignalofbodylinearaccelerationstandarddeviationinzdirection
-       
        timesignalofgravitylinearaccelerationmeaninxdirection
-       
        timesignalofgravitylinearaccelerationmeaninydirection
-       
        timesignalofgravitylinearaccelerationmeaninzdirection
-       
        timesignalofgravitylinearaccelerationstandarddeviationinxdirection
-       
        timesignalofgravitylinearaccelerationstandarddeviationinydirection
-       
        timesignalofgravitylinearaccelerationstandarddeviationinzdirection
-       
        timesignalofbodylinearaccelerationjerkmeaninxdirection
-       
        timesignalofbodylinearaccelerationjerkmeaninydirection
-       
        timesignalofbodylinearaccelerationjerkmeaninzdirection
        timesignalofbodylinearaccelerationjerkstandarddeviationinxdirection
        timesignalofbodylinearaccelerationjerkstandarddeviationinydirection
