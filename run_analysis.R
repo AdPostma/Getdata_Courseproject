@@ -121,7 +121,7 @@ colnames(selecteddata_tbl_df)<- columnnames
 ## step 5b grouping the data by subject and activity
 ## step 5c taking the mean for each group measurement by summarize_each() function
 ## step 5d making a long skinny dataset by means of the gather() function
-## step 5e aranging the data by subject and activity 
+## step 5e arranging the data by subject and activity 
 
 
 
