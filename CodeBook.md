@@ -2,7 +2,7 @@
 
 This is the codebook for the file samsungmeandata. The file contains a tidy subset of measurements collected from the accelerometers from the Samsung Galaxy S smartphone
 
-The orininal data are contained in: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+The original data are contained in: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 A description of the project and the original data can be found in:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
