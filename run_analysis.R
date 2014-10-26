@@ -105,6 +105,7 @@ columnnames<-gsub("-X","inxdirection",columnnames)
 columnnames<-gsub("-Y","inydirection",columnnames)
 columnnames<-gsub("-Z","inzdirection",columnnames)
 columnnames<-gsub("\\()","",columnnames)
+columnnames<-gsub("bodybody","body",columnnames)
 
 ## step 4c the names for the columns subject and activity are added to columnnames 
 ##         then columnames is assigned to the column names of selecteddata                  
