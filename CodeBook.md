@@ -60,36 +60,36 @@ The file Samsungmeandata contains 4 variables:
 **Subject** 
 	Subjectcode (factor with 30 levels of subjects)
 	
-	1	subject 1 
-	2	subject 2
-	3	subject 3
-	4	subject 4
-	5 	subject 5
-	6	subject 6 
-	7	subject 7
-	8	subject 8
-	9	subject 9
-	10 	subject 10
-	11	subject 11 
-	12	subject 12
-	13	subject 13
-	14	subject 14
-	15 	subject 15
-	16	subject 16
-	17	subject 17
-	18	subject 18
-	19	subject 19
-	20 	subject 20
-	21	subject 21 
-	22	subject 22
-	23	subject 23
-	24	subject 24
-	25 	subject 25
-	26	subject 26
-	27	subject 27
-	28	subject 28
-	29	subject 29
-	30 	subject 30
+	1	code for subject 1 
+	2	code for subject 2
+	3	code for subject 3
+	4	code for subject 4
+	5 	code for subject 5
+	6	code for subject 6 
+	7	code for subject 7
+	8	code for subject 8
+	9	code for subject 9
+	10 	code for subject 10
+	11	code for subject 11 
+	12	code for subject 12
+	13	code for subject 13
+	14	code for subject 14
+	15 	code for subject 15
+	16	code for subject 16
+	17	code for subject 17
+	18	code for subject 18
+	19	code for subject 19
+	20 	code for subject 20
+	21	code for subject 21 
+	22	code for subject 22
+	23	code for subject 23
+	24	code for subject 24
+	25 	code for subject 25
+	26	code for subject 26
+	27	code for subject 27
+	28	code for subject 28
+	29	code for subject 29
+	30 	code for subject 30
 	
 **Activity**
 	Description of activity (factor with 6 levels of activities)
